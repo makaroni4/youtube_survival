@@ -1,4 +1,6 @@
-# Youtubte how tos survival analysis
+# Youtube how tos survival analysis
+
+![Youtube survival curves](https://github.com/makaroni4/youtube_survival/blob/master/survival_curves.png?raw=true)
 
 ## Setup
 
@@ -21,4 +23,7 @@ You are ready to go:
 ~~~
 ruby 1_markdown_links.rb
 ruby 2_pageviews_data.rb
+ruby 3_plot_survival_curves.rb
+ruby 4_filter_exceptions.rb
+ruby 5_survival_rates.rb
 ~~~
