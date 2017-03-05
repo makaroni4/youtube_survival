@@ -1,15 +1,9 @@
 require_relative "0_shared"
 
-PAGEVIEWS_DATA_FOLDER = "pageviews_data"
-
-unless Dir.exists?(PAGEVIEWS_DATA_FOLDER)
-  Dir.mkdir(PAGEVIEWS_DATA_FOLDER)
-end
-
-def download_pageviews_data(playlists)
+def download_pageviews_data(playlists, data_folder)
   playlists.each do |playlist_id|
     playlist = Yt::Playlist.new(id: playlist_id)
-    data_file = File.join(PAGEVIEWS_DATA_FOLDER, "#{playlist.title}.csv")
+    data_file = File.join(data_folder, "#{playlist.title}.csv")
 
     CSV.open(data_file, "w") do |csv|
       i = 0
@@ -28,4 +22,4 @@ def download_pageviews_data(playlists)
   end
 end
 
-download_pageviews_data(PLAYLISTS)
+download_pageviews_data(PLAYLISTS, PAGEVIEWS_DATA_FOLDER)
