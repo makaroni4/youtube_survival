@@ -20,4 +20,5 @@ You are ready to go:
 
 ~~~
 ruby 1_markdown_links.rb
+ruby 2_pageviews_data.rb
 ~~~

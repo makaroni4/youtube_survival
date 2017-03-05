@@ -1,0 +1,57 @@
+1,Practical Machine Learning Tutorial with Python Intro p.1,193081
+2,Regression Intro - Practical Machine Learning Tutorial with Python p.2,119199
+3,Regression Features and Labels - Practical Machine Learning Tutorial with Python p.3,62535
+4,Regression Training and Testing - Practical Machine Learning Tutorial with Python p.4,46360
+5,Regression forecasting and predicting - Practical Machine Learning Tutorial with Python p.5,33838
+6,Pickling and Scaling - Practical Machine Learning Tutorial with Python p.6,19402
+7,Regression How it Works - Practical Machine Learning Tutorial with Python p.7,21002
+8,How to program the Best Fit Slope - Practical Machine Learning Tutorial with Python p.8,16723
+9,How to program the Best Fit Line - Practical Machine Learning Tutorial with Python p.9,13988
+10,R Squared Theory - Practical Machine Learning Tutorial with Python p.10,13674
+11,Programming R Squared - Practical Machine Learning Tutorial with Python p.11,12386
+12,Testing Assumptions - Practical Machine Learning Tutorial with Python p.12,12387
+13,Classification w/ K Nearest Neighbors Intro - Practical Machine Learning Tutorial with Python p.13,13555
+14,K Nearest Neighbors Application - Practical Machine Learning Tutorial with Python p.14,17854
+15,Euclidean Distance - Practical Machine Learning Tutorial with Python p.15,14296
+16,Creating Our K Nearest Neighbors Algorithm - Practical Machine Learning with Python p.16,10084
+17,Writing our own K Nearest Neighbors in Code - Practical Machine Learning Tutorial with Python p.17,9131
+18,Applying our K Nearest Neighbors Algorithm - Practical Machine Learning Tutorial with Python p.18,8835
+19,Final thoughts on K Nearest Neighbors - Practical Machine Learning Tutorial with Python p.19,7413
+20,Support Vector Machine Intro and Application  - Practical Machine Learning Tutorial with Python p.20,17597
+21,Understanding Vectors - Practical Machine Learning Tutorial with Python p.21,10713
+22,Support Vector Assertion - Practical Machine Learning Tutorial with Python p.22,9863
+23,Support Vector Machine Fundamentals - Practical Machine Learning Tutorial with Python p.23,9711
+24,Support Vector Machine Optimization - Practical Machine Learning Tutorial with Python p.24,8807
+25,Creating an SVM from scratch - Practical Machine Learning Tutorial with Python p.25,9152
+26,SVM Training - Practical Machine Learning Tutorial with Python p.26,8207
+27,SVM Optimization - Practical Machine Learning Tutorial with Python p.27,6327
+28,Completing SVM from Scratch - Practical Machine Learning Tutorial with Python p.28,6682
+29,Kernels Introduction - Practical Machine Learning Tutorial with Python p.29,8735
+30,Why Kernels - Practical Machine Learning Tutorial with Python p.30,5855
+31,Soft Margin SVM - Practical Machine Learning Tutorial with Python p.31,4515
+32,Soft Margin SVM and Kernels with CVXOPT - Practical Machine Learning Tutorial with Python p.32,4337
+33,SVM Parameters - Practical Machine Learning Tutorial with Python p.33,4957
+34,Clustering Introduction - Practical Machine Learning Tutorial with Python p.34,8529
+35,Handling Non-Numeric Data - Practical Machine Learning Tutorial with Python p.35,5854
+36,K Means with Titanic Dataset - Practical Machine Learning Tutorial with Python p.36,8073
+37,Custom K Means - Practical Machine Learning Tutorial with Python p.37,5878
+38,K Means from Scratch - Practical Machine Learning Tutorial with Python p.38,4516
+39,Mean Shift Intro - Practical Machine Learning Tutorial with Python p.39,4439
+40,Mean Shift with Titanic Dataset - Practical Machine Learning Tutorial with Python p.40,4162
+41,Mean Shift from Scratch - Practical Machine Learning Tutorial with Python p.41,3899
+42,Mean Shift Dynamic Bandwidth - Practical Machine Learning Tutorial with Python p.42,3831
+43,Deep Learning with Neural Networks and TensorFlow Introduction,67496
+44,Installing TensorFlow (OPTIONAL) - Deep Learning with Neural Networks and TensorFlow p2.1,30690
+45,TensorFlow Basics - Deep Learning with Neural Networks p. 2,44454
+46,Neural Network Model - Deep Learning with Neural Networks and TensorFlow,40316
+47,Running our Network  - Deep Learning with Neural Networks and TensorFlow,29830
+48,Processing our own Data - Deep Learning with Neural Networks and TensorFlow part 5,19160
+49,Preprocessing cont'd - Deep Learning with Neural Networks and TensorFlow part 6,14032
+50,Training/Testing on our Data - Deep Learning with Neural Networks and TensorFlow part 7,12054
+51,Using More Data - Deep Learning with Neural Networks and TensorFlow part 8,10869
+52,Installing the GPU version of TensorFlow for making use of your CUDA GPU,14513
+53,Recurrent Neural Networks (RNN) - Deep Learning with Neural Networks and TensorFlow 10,14909
+54,RNN Example in Tensorflow - Deep Learning with Neural Networks 11,17552
+55,Convolutional Neural Networks Basics - Deep Learning withTensorFlow 12,10468
+56,Convolutional Neural Networks with TensorFlow - Deep Learning with Neural Networks 13,11681
+57,TFLearn - Deep Learning with Neural Networks and TensorFlow p. 14,11829
